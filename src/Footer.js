@@ -10,7 +10,7 @@ export default function Footer() {
         Magdalena Zyglewicz{" "}
       </a>
       is open-sourced on
-      <a href="https://github.com/SoniaJayat/React-Weather-App" target="blank">
+      <a href="https://github.com/Lena3891/React-Week-4" target="blank">
         GitHub{" "}
       </a>
       and hosted on
